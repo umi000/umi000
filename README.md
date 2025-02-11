@@ -1,7 +1,3 @@
-Here’s an updated **GitHub README** that reflects the information from your CV, designed to showcase your skills and experiences effectively:  
-
----
-
 # 💻 Umair Aslam  
 
 ### **Software Development Engineer in Test | QA Engineer | Automation Expert**  
