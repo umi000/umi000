@@ -12,7 +12,7 @@ Performance & API Testing: - Apache JMeter | K6.js | Artillery | LightHouse | Po
 
 Programming Languages: - TypeScript | JavaScript | Java | Python | C# | .NET | Angular
 
-DevOps & Infrastructure: - GitHub Actions | GitLab CI | Docker | Git | Bitbucket | Tortoise SVN
+CI/CD Tools: - GitHub Actions | GitLab CI | Docker | Git | Bitbucket | Tortoise SVN
 
 Databases & Tools: - MySQL | SQL Server | NoSQL | JIRA | Zoho | Wrike | Notion | Testrails | Figma | Miro | Agile Sprints
 
