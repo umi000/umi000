@@ -1,77 +1,55 @@
-# 💻 Umair Aslam  
+💻 Umair Aslam
 
-### **Software Development Engineer in Test | QA Engineer | Automation Expert**  
-🔍 Detail-oriented Quality Assurance Engineer specializing in **manual** and **automated testing** for web and mobile applications.  
+Software Development Engineer in Test | QA Engineer | Automation Expert 🔍 Strategic Software Development Engineer in Test (SDET) and Quality Assurance Lead with 6+ years of experience in manual and automated testing for enterprise web and mobile applications.
 
-🎯 Passionate about delivering **high-quality software solutions** by optimizing testing processes, automating workflows, and collaborating with cross-functional teams.  
+🎯 Expert in architecting Playwright and Cypress e2e frameworks, delivering scalable automation suites across diverse browser environments.
 
-🌱 Always learning and exploring the latest tools, frameworks, and technologies to improve software quality and streamline testing pipelines.  
+🌱 Committed to optimizing testing pipelines and integrating continuous testing within CI/CD pipelines via GitHub Actions to ensure high-velocity software delivery.
 
----
+🛠 Technical Skills #### Automation Frameworks: - Playwright | Cypress | Selenium (4.0) | Appium | Cucumber (BDD) | Vibium | JUnit | TestNG | Jest | Maven
 
-### **🛠 Technical Skills**  
+Performance & API Testing: - Apache JMeter | K6.js | Artillery | LightHouse | Postman | Swagger | Browserstack | Axios | Rest Assured
 
-#### **Automation Frameworks:**  
-- Cypress | Playwright | Appium | Selenium | Cucumber | JUnit | TestNG | Robot Framework  
+Programming Languages: - TypeScript | JavaScript | Java | Python | C# | .NET | Angular
 
-#### **Load Testing:**  
-- Apache JMeter | LoadRunner | K6.js | Artillery  
+DevOps & Infrastructure: - GitHub Actions | GitLab CI | Docker | Git | Bitbucket | Tortoise SVN
 
-#### **API Testing:**  
-- Postman | Swagger | Axios | Rest Assured | K6  
+Databases & Tools: - MySQL | SQL Server | NoSQL | JIRA | Zoho | Wrike | Notion | Testrails | Figma | Miro | Agile Sprints
 
-#### **Programming Languages:**  
-- JavaScript | TypeScript | Java | Python | C++ | C | C# | .NET | Angular | PHP  
+Advanced QA: - Prompt Engineering | Visual AI Regression | AI-powered Self-healing Scripts | Root Cause Analysis (RCA)
 
-#### **CI/CD Tools:**  
-- GitHub Actions | Jenkins | GitLab | Docker  
+🌟 Professional Experience Troon Technologies | Lead SQA Engineer - Architected automated suites for blockchain transaction validation using Playwright & TypeScript via Sovera (sov-pay and solf-in bridge).
 
-#### **Databases:**  
-- MySQL | SQL Server | NoSQL  
+Spearheaded fiat on/off-ramp testing and secured institutional-grade digital asset custody via multi-sig testing.
 
-#### **Other Tools:**  
-- Git | Tortoise SVN | JIRA | Zoho | Wrike | Notion | Figma  
+Techtronix Corp (TicketManager.com) | Software Development Engineer in Test (SDET) - Designed and implemented automation frameworks for TicketManager.com (Web & Android) using Playwright and Appium.
 
----
+Optimized CI/CD pipelines with GitHub Actions, reducing release time by 40% and preventing $70K in production issues.
 
-### **🌟 Professional Experience**  
+Dnnae ltd | Sr. QA Automation Engineer - Developed test plans for AI-based recruiting platforms using Cypress and TypeScript (modeled after LinkedIn Business).
 
-**[Techtronix Corp.](https://github.com/umi000)** | *Software Development Engineer in Test (SDET)*  
-- Developed and maintained automation frameworks for **web** and **mobile platforms** using Playwright, Appium, and Cucumber JS.  
-- Optimized testing with **Docker**, **Jenkins**, and **GitHub Actions** for CI/CD pipelines.  
-- Collaborated with teams to ensure high-quality, bug-free software deliveries.  
+Integrated robust pipeline structures to ensure high-quality assurance across multiple product releases.
 
-**[Basecamp Data Solution](https://github.com/umi000)** | *SQA Engineer (Automation)*  
-- Automated web testing workflows using **Selenium**, **TestNG**, and **Maven**.  
-- Improved accuracy and efficiency by designing robust testing scripts and frameworks.  
+Basecamp Data Solution | Sr. QA Engineer (Manual+Automation) - Automated the ReBiz portal using Selenium, TestNG, and Maven.
 
-**[Contour Software](https://github.com/umi000)** | *QA Manual/Automation Engineer*  
-- Created and executed comprehensive test plans to validate performance, functionality, and usability.  
+Averted $30K in production issues through advanced automation suites.
 
-**[XCL Technologies](https://github.com/umi000)** | *Hybrid Application Developer*  
-- Built and optimized hybrid mobile applications using **Ionic** and **Angular**.  
+🎓 Education & Certifications - Bachelor of Engineering (B.E.) – Computer System Engineering | Mehran University of Engineering and Technology (3.69 CGPA)
 
----
+Certifications: - ISTQB Certified Tester (CTFL)
 
-### **🎓 Education & Certifications**  
-- **Bachelor of Engineering (B.E.)** – Computer System Engineering | Mehran University of Engineering and Technology  
-- **Certifications:**  
-  - ISTQB Certified Tester  
-  - Microsoft Office Specialist (MOS) Master Certification  
+Prompt Engineering Certified
 
----
+Microsoft Office Specialist (MOS) Master Certification
 
-### **🏆 Awards**  
-- **Employee of the Year** – Base Camp Data Solutions | *Dec 2020*  
-- **Employee of the Month** – Contour Software | *Jul 2019*  
+🏆 Awards - Employee of the Year – 2020
 
----
+Employee of the Quarter – Dec 2022
 
-### **📊 GitHub Stats**  
-![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umi000&show_icons=true&theme=radical)  
+Most Bug Reporter of the Quarter – Jul 2019
 
----
+📊 GitHub Stats
 
-### **📫 Let's Connect!**  
-- 📧 **Email:** uaslam1000@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/umair-rajput](https://linkedin.com/in/umair-rajput)  
+📫 Let's Connect! - 📧 Email: uaslam1000@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/umair-rajput
