@@ -74,8 +74,7 @@ Root Cause Analysis (RCA)
 ## 🌟 PROFESSIONAL EXPERIENCE
 
 ### 💼 **Lead SQA Engineer** 
-**Troon Technologies** | *Remote* | `Ontario, Canada`  
-📅 **01/04/2025 – Present**
+**Troon Technologies** | *Remote* | `Ontario, Canada` 
 
 > **Blockchain & Fintech Testing Specialist**
 
@@ -91,7 +90,6 @@ Root Cause Analysis (RCA)
 
 ### 💼 **SDET Engineer**
 **Techtronix Corp (Ticket Manager)** | *Remote* | `Calabasas, CA, United States`  
-📅 **01/09/2021 – 30/03/2025**
 
 > **Full-Stack Test Automation Architect**
 
@@ -109,7 +107,6 @@ Root Cause Analysis (RCA)
 
 ### 💼 **Sr. QA Automation Engineer**
 **Dnnae ltd** | *Remote* | `San José, Costa Rica`  
-📅 **01/08/2023 – 01/12/2023**
 
 > **AI-Powered Recruiting Platform Testing**
 
@@ -123,7 +120,6 @@ Root Cause Analysis (RCA)
 
 ### 💼 **Sr. QA Engineer (Manual+Automation)**
 **Basecamp Data Solutions** | *Onsite, Hyderabad* | `Cleveland, Ohio, United States`  
-📅 **01/02/2020 – 28/09/2021**
 
 > **Enterprise Portal Automation**
 
@@ -141,7 +137,6 @@ Root Cause Analysis (RCA)
 
 ### 💼 **Hybrid Mobile Application Developer**
 **XCL Technologies** | *Hyderabad, Pakistan*  
-📅 **19/11/2019 – 01/02/2020**
 
 > **Mobile App Development & Testing**
 
