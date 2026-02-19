@@ -73,8 +73,8 @@ Root Cause Analysis (RCA)
 
 ## 🌟 PROFESSIONAL EXPERIENCE
 
-### 💼 **Lead SQA Engineer** 
-**Troon Technologies** | *Remote* | `Ontario, Canada` 
+### 💼 **Senior SQA Engineer** 
+**Antematter** | *Remote* | `Islamabad, Pakistan` 
 
 > **Blockchain & Fintech Testing Specialist**
 
