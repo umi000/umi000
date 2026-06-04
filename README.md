@@ -72,7 +72,7 @@ Prompt Engineering | Visual AI Regression | AI-powered Self-healing Scripts | Ra
 
 ## 🌟 PROFESSIONAL EXPERIENCE
 
-### 💼 **SQA Automation Lead** 
+### 💼 **Senior SQA Automation Engineer** 
 **Troon Technologies** | *Remote* | `Islamabad, Pakistan` 
 
 > **Blockchain & Fintech Testing Specialist**
@@ -87,7 +87,7 @@ Prompt Engineering | Visual AI Regression | AI-powered Self-healing Scripts | Ra
 
 ---
 
-### 💼 **SDET Engineer**
+### 💼 **SDET | SQA Automation Engineer Engineer**
 **Techtronix Corp (Ticket Manager)** | *Remote* | `Calabasas, CA, United States`  
 
 > **Full-Stack Test Automation Architect**
@@ -101,23 +101,9 @@ Prompt Engineering | Visual AI Regression | AI-powered Self-healing Scripts | Ra
 - 🤝 Collaborated closely with development teams to ensure alignment between automated tests and development cycles, resolving issues early to minimize defects in production.
 
 - 🏆 **Key Achievement:** Developed a comprehensive automated test suite that reduced release time by **40%** and prevented over **$70K** in production issues, enhancing overall software stability.
-
 ---
 
-### 💼 **Sr. QA Automation Engineer**
-**Dnnae ltd** | *Remote* | `San José, Costa Rica`  
-
-> **AI-Powered Recruiting Platform Testing**
-
-- 🧪 Developed and executed comprehensive test plans to validate functionality, performance, and usability using the Cypress framework with TypeScript for the AI-based recruiting Webapp like LinkedIn business model.
-
-- 🐛 Identified, reported, and tracked defects, while conducting rigorous regression testing to ensure the stability of new features and system integrity.
-
-- 🚀 Delivered high-quality assurance across multiple product releases through a combination of manual and automated testing strategies by adding pipeline structure.
-
----
-
-### 💼 **Sr. QA Engineer (Manual+Automation)**
+### 💼 **SQA Engineer (Manual+Automation)**
 **Basecamp Data Solutions** | *Onsite, Hyderabad* | `Cleveland, Ohio, United States`  
 
 > **Enterprise Portal Automation**
@@ -131,17 +117,6 @@ Prompt Engineering | Visual AI Regression | AI-powered Self-healing Scripts | Ra
 - 📚 Conducted automation training sessions for team members, improving overall team capability and efficiency in automated testing.
 
 - 🏆 **Key Achievement:** Developed an automated test suite that reduced release time by **40%** and averted **$30K** in production issues.
-
----
-
-### 💼 **Hybrid Mobile Application Developer**
-**XCL Technologies** | *Hyderabad, Pakistan*  
-
-> **Mobile App Development & Testing**
-
-- 📱 Developed mobile applications using Ionic 4.0, later migrating to Ionic 5.0 with Angular 9.0.
-
-- ✅ Conducted comprehensive testing for functionality and compatibility across various devices while optimizing and maintaining the codebase.
 
 ---
 
